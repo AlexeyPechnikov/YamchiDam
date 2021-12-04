@@ -2,11 +2,9 @@
 
 Satellite Interferometry (InSAR) [Sentinel-1](https://sentinel.esa.int/web/sentinel/missions/sentinel-1) Processing from [NASA ASF DAAC](https://earthdata.nasa.gov/eosdis/daacs/asf) plus [N-Cube ParaView plugin for 3D/4D GIS Data Visualization](https://github.com/mobigroup/ParaView-plugins) and [ParaView](https://www.paraview.org) to load the data and produce the video. 
 
-<img alt="3D vertical displacement map" src="vertical_displacement/vertical_displacement.gif" width="50%">
+See video on YouTube:
 
-See more detailed video on YouTube:
-
-[![Yamchi Dam, Ardabil, North Iran](https://img.youtube.com/vi/QFw73FjRo5k/0.jpg)](https://www.youtube.com/watch?v=QFw73FjRo5k)
+[![Yamchi Dam, Ardabil, North Iran](https://img.youtube.com/vi/LV11QaWwfdc/0.jpg)](https://youtu.be/LV11QaWwfdc)
 
 See also data files in the repository:
 
