@@ -8,11 +8,6 @@ The video produced in Open Source [ParaView](https://www.paraview.org) Software 
 
 See more detailed video on YouTube:
 
-
-<img alt="3D vertical displacement map" src="vertical_displacement/vertical_displacement.gif" width="50%">
-
-See more detailed video on YouTube:
-
 [![Yamchi Dam, Ardabil, North Iran](https://img.youtube.com/vi/LV11QaWwfdc/0.jpg)](https://youtu.be/LV11QaWwfdc)
 
 See also data files in the repository:
